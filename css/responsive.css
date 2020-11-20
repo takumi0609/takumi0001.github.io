@@ -49,7 +49,7 @@ Version      : 1.0
     } 
 
     .background-img{
-        width:100% !important;
+        background-size:cover;
     }
     .about h2{
         text-align: center;
